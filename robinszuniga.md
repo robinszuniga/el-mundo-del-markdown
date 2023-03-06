@@ -29,7 +29,7 @@
 | cl | clear|
 | npmd | npm run dev |
 
-🔗
-
+🔗Likendin
+🔗twitter
 
 
